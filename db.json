@@ -1,0 +1,36 @@
+{
+  "checkpoint": [
+	  {
+		"id" : 1,
+		"unit_utility_meter" : {
+			"id": 1,
+			"unit": {
+			  "id": 1,
+			  "name": "JD-03A-10"
+			},
+			"meter": {
+			  "id": 1,
+			  "name": "Air Bersih"
+			}
+		},
+		"date" : "2018-01-18",
+		"value" : 10
+	  },
+	  {
+		"id" : 2,
+		"unit_utility_meter" : {
+			"id": 2,
+			"unit": {
+			  "id": 1,
+			  "name": "JD-03A-10"
+			},
+			"meter": {
+			  "id": 2,
+			  "name": "Air Daur Ulang"
+			}
+		},
+		"date" : "2018-01-18",
+		"value" : 10
+	  }
+	]
+}
